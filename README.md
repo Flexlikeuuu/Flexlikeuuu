@@ -2,10 +2,20 @@
 
 ### **QA Automation Engineer | TypeScript & Playwright Specialist**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirill-stepanenko-93100b417/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flexlikeuuu)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/flex_like_uuu)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirillstepanenko2017@mail.ru)
+<p align="left" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/kirill-stepanenko-93100b417/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/flexlikeuuu" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://t.me/flex_like_uuu" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:kirillstepanenko2017@mail.ru" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
@@ -22,13 +32,30 @@ I am a final-year Computer Science student specializing in **Software Quality As
 ## 🛠 Tech Stack & Tools
 
 ### **Test Automation & Quality Assurance**
-`TypeScript` `JavaScript` `Playwright` `Page Object Model (POM)` `REST API Testing` `Postman` `Swagger / OpenAPI`
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+</p>
 
 ### **Backend & Systems Development**
-`Node.js` `Express.js` `PostgreSQL (pg-pool)` `WebSockets` `C#` `C++`
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+</p>
 
 ### **DevOps, Infrastructure & Workflows**
-`Docker` `Docker Compose` `Git / GitHub` `GitHub Actions` `Linux (Alpine)` `Claude Code / Cursor`
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
 
 ---
 
@@ -51,7 +78,6 @@ I am a final-year Computer Science student specializing in **Software Quality As
   * Containerized the stack using Docker Compose to ensure deterministic staging and test environments.
 
 ---
-
 
 ## 📈 6-Month Professional Development Roadmap
 
