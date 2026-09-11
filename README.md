@@ -2,20 +2,7 @@
 
 ### **QA Automation Engineer | TypeScript & Playwright Specialist**
 
-<p align="left" style="text-decoration: none;">
-  <a href="https://www.linkedin.com/in/kirill-stepanenko-93100b417/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/flexlikeuuu" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://t.me/flex_like_uuu" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="mailto:kirillstepanenko2017@mail.ru" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<p align="left"><a href="https://www.linkedin.com/in/kirill-stepanenko-93100b417/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/flexlikeuuu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://t.me/flex_like_uuu"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a> <a href="mailto:kirillstepanenko2017@mail.ru"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a></p>
 
 ---
 
