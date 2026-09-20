@@ -12,7 +12,7 @@ I am a final-year Computer Science student specializing in **Software Quality As
 
 * 💡 **Current Focus:** Advanced Playwright patterns, CI/CD pipeline integration, and leveraging AI tools (Claude Code, GitHub Copilot) to accelerate test creation and edge-case discovery.
 * 🎓 **Education:** Finalizing B.Sc. diploma thesis on full-stack architecture and real-time systems.
-* 🎯 **Career Goal:** Junior / Middle QA Automation Engineer role in a product-driven or high-load engineering team.
+* 🎯 **Career Goal:** Junior QA Automation Engineer role in a product-driven or high-load engineering team.
 
 ---
 
@@ -66,23 +66,41 @@ I am a final-year Computer Science student specializing in **Software Quality As
 
 ---
 
-## 📈 6-Month Professional Development Roadmap
+# 🚀 6-Month QA Automation Engineer Development Roadmap
+
+> **Target Position:** Junior QA Automation Engineer (JavaScript & Playwright)  
+> **Goal:** Landing a full-time QA Automation role within 6 months.
+
+---
+
+## 📌 Executive Overview
+
+| Parameter | Details |
+| :--- | :--- |
+| **Current Level** | Software Engineering Student / Graduate (a1qa Practice & Internship) |
+| **Primary Stack** | JavaScript, Playwright, Node.js, REST API, Docker, GitHub Actions, Allure |
+| **Target Salary Range** | $500 – $1,000 *(Junior)* / $1,000 – $1,300 *(Junior+)* |
+| **Definition of Done** | Production-ready GitHub portfolio + 150+ applications sent + 5+ technical interviews + **Job Offer** |
+
+---
+
+## 📊 Roadmap Visual Architecture
 
 ```mermaid
 flowchart TD
     subgraph Phase1 ["Phase 1: Advanced Testing & Architecture (M1-M2)"]
-        A1[Playwright Fixtures & Storage States] --> A2[API Automation & Contract Testing]
-        A2 --> A3[AI-Driven Test Generation & Claude Code]
+        A1["1. Playwright Fixtures & Storage States"] --> A2["2. API Automation & Contract Testing"]
+        A2 --> A3["3. AI-Driven Test Generation & Claude Code"]
     end
 
     subgraph Phase2 ["Phase 2: DevOps, CI/CD & Scale (M3-M4)"]
-        B1[Dockerized Test Execution] --> B2[GitHub Actions CI/CD Matrix]
-        B2 --> B3[Allure / HTML Reporting Pipeline]
+        B1["4. Dockerized Test Execution"] --> B2["5. GitHub Actions CI/CD Matrix"]
+        B2 --> B3["6. Allure / HTML Reporting Pipeline"]
     end
 
     subgraph Phase3 ["Phase 3: Job Search & Market Entry (M5-M6)"]
-        C1[Portfolio Review & Target 50 List] --> C2[Active Outreach & Cold Applications]
-        C2 --> C3[Technical Interviews & Offer Phase]
+        C1["7. Portfolio Polish & Target 50 List"] --> C2["8. Active Outreach & Metrics"]
+        C2 --> C3["9. Technical Interviews & Offer Phase"]
     end
 
     Phase1 --> Phase2 --> Phase3
