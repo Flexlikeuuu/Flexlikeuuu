@@ -1,6 +1,6 @@
 # Hi there, I'm Kirill Stepanenko 👋
 
-### **Fullstack QA Engineer | TypeScript & Playwright Specialist**
+### **Fullstack QA Engineer | TypeScript/JavaScript & Playwright Specialist**
 
 <p align="left"><a href="https://www.linkedin.com/in/kirill-stepanenko-93100b417/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/flexlikeuuu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://t.me/flex_like_uuu"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a> <a href="mailto:kirillstepanenko2017@mail.ru"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a></p>
 
@@ -46,7 +46,7 @@
 
 ### 🧪 1. [UI-Test-Framework](https://github.com/Flexlikeuuu/UI-Test-Framework)
 - **Role:** QA Automation Engineer / Framework Author
-- **Tech Stack:** TypeScript, Playwright, Page Object Model (POM), Allure Report, GitHub Actions
+- **Tech Stack:** JavaScript, Playwright, Page Object Model (POM), Allure Report, GitHub Actions
 - **Key Deliverables:**
   * Engineered a standalone, scalable UI automation framework designed for cross-browser stability and continuous regression coverage.
   * Implemented an enterprise **Page Object Model (POM)** structure with modular component locators to minimize maintenance overhead and eliminate flaky UI runs.
@@ -55,7 +55,7 @@
 
 ### 🔌 2. [API-Test-Framework](https://github.com/Flexlikeuuu/API-Test-Framework)
 - **Role:** QA Automation Engineer / Framework Author
-- **Tech Stack:** TypeScript, Playwright (APIRequestContext), JSON Schema Validation, GitHub Actions
+- **Tech Stack:** JavaScript, Playwright (APIRequestContext), JSON Schema Validation, GitHub Actions
 - **Key Deliverables:**
   * Built a high-performance REST API test framework from scratch leveraging Playwright's native network request layer for automated backend and microservice testing.
   * Automated end-to-end request lifecycle suites covering status code verification, deep payload assertions, response schema validation, and multi-step integration scenarios (`GET`, `POST`, `PUT`, `DELETE`).
